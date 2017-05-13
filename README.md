@@ -1,4 +1,5 @@
 ## Welcome to GitHub Pages
+这是一个测试的blog，后续需要解决如何添加发布
 
 You can use the [editor on GitHub](https://github.com/dariencdd/cd.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
@@ -10,6 +11,11 @@ Markdown is a lightweight and easy-to-use syntax for styling your writing. It in
 
 ```markdown
 Syntax highlighted code block
+```golang
+func main(){
+  fmt.Println("如何进行添加发布, 这是要解决的问题")
+}
+
 
 # Header 1
 ## Header 2
